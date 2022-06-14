@@ -1,0 +1,67 @@
+
+#next{
+    display: flex;
+    justify-content: flex-end;
+}
+.gmail{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+#img{
+    height: 20px;
+    width: 20px;
+}
+
+#masterMain{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+#masterBody{
+    background-color: black;
+}
+.searchBar{
+    display:flex;
+    justify-content: center;
+    color: white;
+}
+
+#search{
+    background-image: url(./search.webp);
+    background-size: 23px;
+    background-repeat: no-repeat;
+    text-indent: 20px;
+}
+#search input{
+    height: 10px;
+    width: 10px;
+}
+
+#searchBar{
+    width: 700px;
+}
+
+#holdsSearch{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.Button{
+    color: white;
+    background-color: rgb(34, 33, 33);
+    border-radius: 5px;
+    margin: 25px 3px;
+    width: 200px;
+    border: 1px black solid;
+}
