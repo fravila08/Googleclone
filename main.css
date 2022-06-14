@@ -69,7 +69,18 @@ header{
     color: white;
     background-color: rgb(34, 33, 33);
     border-radius: 5px;
-    margin: 25px 3px;
+    margin: 10px 3px;
     width: 200px;
     border: 1px black solid;
+}
+.img{
+    height: 75px;
+
+}
+.realBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 700px;
+    width: 100%;
 }
